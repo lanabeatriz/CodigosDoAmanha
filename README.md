@@ -1,2 +1,2 @@
 # CodigosDoAmanha
-Repositório destinado ao códigos desenvolvidos durante o programa
+Repositório destinado aos códigos desenvolvidos durante o programa
